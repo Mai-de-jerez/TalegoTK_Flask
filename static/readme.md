@@ -82,47 +82,47 @@ Aparecerá la ventana del CRUD.
 
 # 🖥️ Uso de la interfaz Insertar
 
-Rellena todos los campos
+1. Rellena todos los campos
 
-Clic en Insertar
+2. Clic en Insertar
 
-Mensaje: Se insertó correctamente
+- Mensaje: Se insertó correctamente
 
-Cargar
+3. Cargar
 
-Clic en Cargar
+- Clic en Cargar
 
-Introduce el código
+4. Introduce el código
 
-Si existe → se rellena el formulario
+- Si existe → se rellena el formulario
 
-Si no → aviso de que no existe
+- Si no → aviso de que no existe
 
-Actualizar
+5. Actualizar
 
-Cargar un huésped
+- Cargar un huésped
 
-Modificar los campos
+- Modificar los campos
 
-Clic en Actualizar
+- Clic en Actualizar
 
-Eliminar
+6. Eliminar
 
-Clic en Eliminar
+- Clic en Eliminar
 
-Introduce código
+- Introduce código
 
-Si existe, se borra
+- Si existe, se borra
 
-Listar
+7. Listar
 
-Clic en Listar
+- Clic en Listar
 
-Los huéspedes aparecerán en la consola de Eclipse.
+- Los huéspedes aparecerán en la consola de Eclipse.
 
 Ejemplo:
 
-1 - Ana Pérez - Hab: 101 2 - Juan López - Hab: 203
+`1 - Ana Pérez - Hab: 101 2 - Juan López - Hab: 203`
 
 # 📝 JavaDoc
 

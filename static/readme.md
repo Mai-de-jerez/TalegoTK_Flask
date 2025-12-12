@@ -49,10 +49,12 @@ Cada huésped contiene:
 5. Patrón MVC (básico): Modelo + DAO + Vista
 
 # 📁 Estructura del proyecto 
+```
 crud/ 
   ├── Huesped.java → Modelo 
   ├── DataHuesped.java → Acceso a datos (DAO) 
   ├── PantallaHuesped.java → Vista / Controlador (Swing)
+```
 
 # 📚 Añadir el driver JDBC en Eclipse
 
